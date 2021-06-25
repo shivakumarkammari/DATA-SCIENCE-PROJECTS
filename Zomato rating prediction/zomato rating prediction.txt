@@ -1,0 +1,20 @@
+hello every one.......
+Zomato rating prediction dataset cotain information of
+url : url contain the particular restaurant zomato url link
+address : restaurant address in bangaluru
+name : restaurant name
+online_order : given restaurent have online odering or not
+book_table : online booking table or not give restaurent
+rate : customers giving so rating on online 
+votes : gives voting of the paricular restaurant
+phone : phone number of given restaurent
+location : area name in bangaluru
+rest_type : which type of estaurant is this
+dish_liked : customers likes in restaurant
+cuisines : which type of cuisines avaliable in restaurant
+approx_cost(for two people) : approximatly price of two people eatting in restaurant
+reviews_list : reviews giving the customer are visiting the restaurent
+menu_item : list of food items in restaurant
+listed_in(type) : which kind of restaurant is this 
+listed_in(city) : location in bangaluru city
+
