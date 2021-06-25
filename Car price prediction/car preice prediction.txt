@@ -1,0 +1,13 @@
+hello every one.............
+here the dataset conatin old car information the columns are
+Car_Name : there are different type of car names in given datset
+Year : where the old buyer purchesed year
+Seller_Price : presented expected selling price of the given car
+Present_Price : in showroom present selling price 
+Kms_Driven : given car travel the KiloMeters 
+Fuel_Type : particular car Fuel type is this car is Petrol or Diesel or CNG
+Seller_type : preiviesly car holder sell the car in Deller or Individual type
+Transmission : car is automate steerio or manual steerio
+Owner : previously car have how many owner will changed
+
+
